@@ -4,7 +4,7 @@
  <title>Дмитрий Трагер</title>
  <link href="http://trager.ru/atom.xml" rel="self"/>
  <link href="http://trager.ru/"/>
- <updated>2011-11-27T16:43:30+04:00</updated>
+ <updated>2011-11-27T17:26:25+04:00</updated>
  <id>http://trager.ru/</id>
  <author>
    <name>Dmitry Trager</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Новый бложик стартует здесь</title>
-   <link href="http://timurv.ru/2011/11/25/start.html"/>
+   <link href="http://trager.ru/2011/11/25/start.html"/>
    <updated>2011-11-25T00:00:00+04:00</updated>
    <id>http://trager/2011/11/25/start</id>
    <content type="html">&lt;p&gt;Наконец удалось запилить бложик. С использованием механизма хостинга &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt; для статичных страниц. Сами страницы генерируются с помощью гем-сервера &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;jekyll&lt;/a&gt;, а посты пишутся на языке разметки &lt;a href=&quot;https://en.wikipedia.org/wiki/markdown&quot;&gt;markdown&lt;/a&gt;.&lt;/p&gt;
