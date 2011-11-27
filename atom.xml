@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Дмитрий Трагер</title>
+ <link href="http://trager.ru/atom.xml" rel="self"/>
+ <link href="http://trager.ru/"/>
+ <updated>2011-11-27T16:43:30+04:00</updated>
+ <id>http://trager.ru/</id>
+ <author>
+   <name>Dmitry Trager</name>
+   <email>dmitry@trager.ru</email>
+ </author>
+
+ 
+ <entry>
+   <title>Новый бложик стартует здесь</title>
+   <link href="http://timurv.ru/2011/11/25/start.html"/>
+   <updated>2011-11-25T00:00:00+04:00</updated>
+   <id>http://trager/2011/11/25/start</id>
+   <content type="html">&lt;p&gt;Наконец удалось запилить бложик. С использованием механизма хостинга &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt; для статичных страниц. Сами страницы генерируются с помощью гем-сервера &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;jekyll&lt;/a&gt;, а посты пишутся на языке разметки &lt;a href=&quot;https://en.wikipedia.org/wiki/markdown&quot;&gt;markdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Надо сказать, что идею подобного обустройства персонального блога я спёр у CTO компании, в которой нынче работаю. Другое дело, что сам он позаимствовал её у &lt;a href=&quot;https://github.com/mojombo/mojombo.github.com&quot;&gt;автора jekyll&lt;/a&gt;. Более того, как выяснилось, плагины для jekyll только были лишь слегка доработаны, а оригиналы взяты &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Plugins&quot;&gt;оттуда же&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tsmango/jekyll_flickr_set_tag&quot;&gt;Плагин&lt;/a&gt; для подгрузи фотоальбомов заданного юзера из &lt;a href=&quot;http://flickr.com&quot;&gt;flickr&lt;/a&gt; я решил заменить на аналог, работающий с &lt;a href=&quot;http://picasaweb.google.com&quot;&gt;picasa&lt;/a&gt;. Поскольку готового варианта для него не нашлось, а &lt;a href=&quot;http://code.google.com/p/picasaonrails&quot;&gt;плагин&lt;/a&gt;, который предлагает сам гугл, приспособить никак не удалось (просто потому, что я не знаю, как прицепиь плагин к jekyll-приложению), пришлось соорудить гем, и взять на себя почётную роль автора. Теперь он доступен каждому, а называет просто: google-picasa.&lt;/p&gt;
+
+&lt;p&gt;Рассказывать про то, как устроен и работает сам jekyll, я не буду. Хотя работает он здорово. Просто про это уже хорошо написано &lt;a href=&quot;http://wiki.github.com/mojombo/jekyll/usage&quot;&gt;тут&lt;/a&gt; и &lt;a href=&quot;http://wiki.github.com/mojombo/jekyll/configuration&quot;&gt;тут&lt;/a&gt;. Так что всем удачи.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
