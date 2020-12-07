@@ -4,7 +4,7 @@
  <title>Дмитрий Трагер</title>
  <link href="http://trager.ru/atom.xml" rel="self"/>
  <link href="http://trager.ru/"/>
- <updated>2020-12-07T16:54:06+03:00</updated>
+ <updated>2020-12-07T16:56:01+03:00</updated>
  <id>http://trager.ru/</id>
  <author>
    <name>Dmitry Trager</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Про блог</title>
-   <link href="http://trager.ru/2020/07/12/blog-restore.html"/>
-   <updated>2020-07-12T00:00:00+03:00</updated>
-   <id>http://trager/2020/07/12/blog-restore</id>
+   <link href="http://trager.ru/2020/12/07/blog-restore.html"/>
+   <updated>2020-12-07T00:00:00+03:00</updated>
+   <id>http://trager/2020/12/07/blog-restore</id>
    <content type="html">&lt;p&gt;Где-то год назад я поменял ноутбук. Старый давно уже был не в форме, поэтому переход случился довольно быстро. Проблема с блогом в его нынешнем виде в том, что на гитхабе хранится только сгенерированная часть, а исходники постов хранятся только локально. Мне понадобилось много времени, чтобы это вспомнить, понять, что всё осталось на диске в старом ноуте, потом добраться до этого диска и восстановить дистрибутив. Теперь снова можно что-то писать. Попробую первым делом рассказать про недавнюю поездку на Байкал.&lt;/p&gt;
 </content>
  </entry>
