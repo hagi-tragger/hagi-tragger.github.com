@@ -3,11 +3,11 @@
 	"file": "frame.css",
 	"sources": [
 		"frame.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4080-19vsmg6/_sass/index.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4080-19vsmg6/_sass/font.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4080-19vsmg6/_sass/basic.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4080-19vsmg6/_sass/layout.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4080-19vsmg6/_sass/classes.sass"
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4426-x4yf37/_sass/index.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4426-x4yf37/_sass/font.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4426-x4yf37/_sass/basic.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4426-x4yf37/_sass/layout.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230520-4426-x4yf37/_sass/classes.sass"
 	],
 	"sourcesContent": [
 		"@import \"index\", \"font\", \"basic\", \"layout\", \"classes\";\n\nhtml {\n  background: lighten($dark, 70%);\n  padding: 0 calc(38% - 21em); }\n\nbody {\n  box-shadow: 0 0 .3em lighten($dark, 65%); }\n\nbody > header, body > footer {\n  background: lighten($dark, 5%);\n  color: $light; }\n\n@media (min-width: 32em) {\n  body > header, body > article, body > footer {\n    padding: 1.65em calc(22% - 6em); } }\n\n@media (prefers-color-scheme: dark) {\n  body, body > header, body > footer {\n    box-shadow: 0 0 0 1px lighten($dark, 8%); }\n  html, body > header, body > footer {\n    background: $dark; } }\n",
