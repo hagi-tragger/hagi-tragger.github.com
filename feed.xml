@@ -4,7 +4,7 @@
  <title>Dmitry Trager</title>
  <link href="http://trager.ru/atom.xml" rel="self"/>
  <link href="http://trager.ru/"/>
- <updated>2023-06-18T13:24:11+02:00</updated>
+ <updated>2023-07-02T13:34:05+02:00</updated>
  <id>http://trager.ru/</id>
  <author>
    <name>Dmitry Trager</name>
@@ -13,7 +13,33 @@
 
  
  <entry>
-   <title>Barcelona First View</title>
+   <title>Испания. Больше наблюдений</title>
+   <link href="http://trager.ru/spain-more-notes/"/>
+   <updated>2023-07-02T00:00:00+02:00</updated>
+   <id>http://trager/spain-more-notes</id>
+   <content type="html">&lt;p&gt;Ещё несколько наблюдений за жизнью испанцев или, если говорить точнее, каталонцев.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;В Европе ни магазины, ни даже многие заведения (кафе и бары не имеются в виду) не работают поздним вечером и, тем более, ночью. Если магазин работает, то, скорее всего, это мини-маркет, в котором трудятся только мигранты. В Испании в дополнение этому многие места закрываются днём на сиесту. Мне это немного напоминает Индию, ведь климат, который заставляет так делать, тут чем-то похож. Ещё тут в почёте религиозные (католические) праздники, когда всё тоже закрыто наглухо.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AJFCJaXZl9cJSFBNY0WckeGhaoe26lHohAJymcqc-a4UGC8hD0hJzAVMRgioYUz-IvsbZ_Wrung9hxYSzev4HxJ5Zr51Sv5vKV1Fdd63SfQk2LUL-3wraGylVD9PilofFxg5ANpnnvqfiiMdMjp5iAeiIn6e=w2218-h1666-s-no?authuser=0&quot; alt=&quot;street&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Несмотря на прекрасную культуру производства и потребления вина, тут любят пить пиво. Если не заглядывать внутрь заведений, а ориентироваться по террасам, то пиво там можно увидеть даже чаще. Не Бельгия конечно, но пиво тут не самое плохое. Лично меня это всё скорее радует. В Грузии с пивом ситуация довольно печальная – там страна очевидно про вино.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;На этих самых самых террасах проводят время не только молодые люди. Видно, что и горожане постарше любят присесть пропустить бокальчик пенного. Кроме того, стараются не сидеть дома и пенсионеры. Я уже писал про то, что средний возраст на Primavera был заметно повыше, чем на Sziget. Но стариков там, конечно, не было. А вот в кафешках посидеть они тут любят и, в целом, ведут относительно активный образ жизни.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Барселона. "Первые" впечатления</title>
    <link href="http://trager.ru/barcelona-first-view/"/>
    <updated>2023-06-18T00:00:00+02:00</updated>
    <id>http://trager/barcelona-first-view</id>
@@ -63,7 +89,7 @@
  </entry>
  
  <entry>
-   <title>Vardzia Imereti Comments</title>
+   <title>Вардзия и Имеретия</title>
    <link href="http://trager.ru/vardzia-imereti-comments/"/>
    <updated>2023-05-17T00:00:00+02:00</updated>
    <id>http://trager/vardzia-imereti-comments</id>
