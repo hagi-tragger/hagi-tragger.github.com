@@ -3,11 +3,11 @@
 	"file": "minimal.css",
 	"sources": [
 		"minimal.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230709-15396-1rgv1kd/_sass/index.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230709-15396-1rgv1kd/_sass/font.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230709-15396-1rgv1kd/_sass/basic.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230709-15396-1rgv1kd/_sass/layout.sass",
-		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230709-15396-1rgv1kd/_sass/classes.sass"
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230714-9706-1af3qwu/_sass/index.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230714-9706-1af3qwu/_sass/font.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230714-9706-1af3qwu/_sass/basic.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230714-9706-1af3qwu/_sass/layout.sass",
+		"../../../../../private/var/folders/gs/h_gybtps2kb9ng3mpvqc7kg00000gn/T/jekyll-remote-theme-20230714-9706-1af3qwu/_sass/classes.sass"
 	],
 	"sourcesContent": [
 		"@import \"index\", \"font\", \"basic\", \"layout\", \"classes\";\n\nbody {\n  padding: 0 calc(38% - 15em); }\n\nbody > header, body > article, body > footer {\n  padding: 1.7em 0;\n  margin: 0 1.5em; }\n\nbody > header, body > footer {\n  box-shadow: 0 1.5px, 0 -1.5px; }\n",
