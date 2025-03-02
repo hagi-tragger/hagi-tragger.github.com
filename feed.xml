@@ -4,13 +4,58 @@
  <title>Dmitry Trager</title>
  <link href="http://trager.ru/atom.xml" rel="self"/>
  <link href="http://trager.ru/"/>
- <updated>2025-01-26T14:40:37+01:00</updated>
+ <updated>2025-03-01T14:26:31+01:00</updated>
  <id>http://trager.ru/</id>
  <author>
    <name>Dmitry Trager</name>
    <email>dmitry@trager.ru</email>
  </author>
 
+ 
+ <entry>
+   <title>Belgium</title>
+   <link href="http://trager.ru/belgium/"/>
+   <updated>2025-03-01T00:00:00+01:00</updated>
+   <id>http://trager/belgium</id>
+   <content type="html">&lt;p&gt;Бельгия – довольно маленькая европейская страна. Города там тоже довольно маленькие, если судить по населению. Природа довольно однообразная, поэтому впечатления складываются, в основном, от городов. Получается онотакое, будто это Шир из Властелина Колец. Не то чтобы там было так же солнечно и зелено. Нет, зелени кругом полно, но погода довольно мрачная, это вам не Испания. Просто убранство этих городов создаёт ощущение уюта довольно приторного, в чём-то даже ненастоящего.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczNp1Z5ZXAR--cJ1w41vppothSHGF2eSPS8EljxAguA-_Comm6fJB-fudrOUGWwnGYm93KYOqbst2mEOvpg0GDpwXf1Em09k_EBkjgdxCvujT5uqZwXCHDtoInUaSxjR9WUi9uFAeWfA_HbaUWEFgbqH=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;bruges&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Я прилетел в аэропорт Брюсселя в начале февраля. Брюссель – столица страны, и других аэропортов там нет. При этом город это далеко не самый большой даже по меркам страны. Например, в соседнем Генте живёт больше людей. И именно там, в одном из университетов, должно было пройти &lt;a href=&quot;https://rubyinghent.org&quot;&gt;мероприятие&lt;/a&gt;, которое организаторы из &lt;a href=&quot;https://rubyforgood.org&quot;&gt;RubyForGood&lt;/a&gt; называют code retreat. Ради него я и прилетел. Сама эта огранизация является non-profit, и её сильно поддерживает &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;, поэтому в эти дни там (в Брюсселе и Генте) можно было встретить людей из Github, отвечающих за social events. При этом в самом Брюсселе на выходных перед вышеописанным мероприятием состоялась очередная конференция &lt;a href=&quot;https://fosdem.org/2025/&quot;&gt;FOSDEM&lt;/a&gt;, и там Github тоже решил принять участие. В воскресенье вечером в одном из баров была объявлена полностью проспонсированная вечеринка для OSS maintainers/contributors, то есть для всех тех, кто помогает делать бесплатный софт.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczO4Lp8PO__jb6onMl8tqu3amxL0DU6_qGD9ZkBV-izrZFtWS7iwrixAcd6QNHuk8OpNYDCu5c-4CJsT9OITvlOdHMeR9HN6KuJY6XplyLuf2M_3CyI_L1GzmJyzKOwpIA-6F4ebpCGcA4xv9teEray0=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;brussels&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Я тоже был приглашён на эту вечеринку, пообщался с разными людьми, выяснил детали того, что будет происходить на следующей неделе, и поехал в город Гент отсыпаться. Поезд между двумя соседними городами в Бельгии обычно не идёт больше получаса, а часа за полтора-два можно проехать вообще всю страну. В итоге, не считая пути из аэпорта, в Брюсселе я пробыл всего несколько часов, распивая бесплатное бельгийское пиво в баре, после чего благополучно отчалил.&lt;/p&gt;
+
+&lt;p&gt;Междугородние маршруты, как я уже сказал, довольно короткие, поэтому в этот же вечер я был в Генте. Гент известен своими культурными памятниками и университетами. Тот университет, в котором проходило наше трёхдневное мероприятие, с несколькими корпусами, множеством аудиторий, велопарковкой, огромным кафетерием и прочим, – всего лишь один из нескольких. То есть они там имеют несколько таких учебных заведений в городе с населением около 260 тысяч человек. В первое же утро в городе в одной из кофеен я столкнулся с тремя(!) русскоговорящими женщинами.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczP_SCAmp2kvCJ_iHacc897mddBxcu_BAioQP-AzSScrJnQbAfmtiWxsDNlMv96nmX33QBXd7inbVkUWOeqyby1k9A6kz2UKLhHcW2mfAH0r9HPKcwCFU2lQimSHetfixQXzrZC4uWr67mhycSYb8iJK=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;ghent&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczML1UV2gku7_PE5HjoY7s1XZ_tmGUDnHtr56_gksuM8Vd1OtqwQXU47bbpmyR34PDJb1QdiCLm0B8xvj1d7Ksb5VPrEuE5Jyk0q-_zqQmxgIeJ6l36RNj05UIOG8ao0eBnch9K3ehmbfjyXRNwk8KZ-=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;ghent2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPrUHBuBhguup7ZZolenJn-3Kw9yZ3EdfaleSkECUJBbNorJV0tVmIOB9mOP0qNfIPnNhuw2KCuhU80GmCm1V4BA42oLA_88adt5zsTSDcJYNOGDgz7uRqkRvJjUZrzSwhPKWvyfvhRoyrmBmoDLKbl=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;ghent3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;В Бельгии по улицам многих городов ездит довольно мало машин. Настолько мало, что в этих городах почти нет светофоров – движение, в основном, саморегулируемое. Зато там огромное число велосипедов и велосипедистов. Первые часто оборудованы всякими тележками, корзинами и дополнительными сиденьями. А вторые, в отличие от более южных стран, где велосипедисты чаще просто беззаботно прогуливаются (верхом на велосипедах, конечно), настроены очень серьёзно. Особенно меня впечатлило то, как легко эти люди одеты в разгар европейской зимы. Видимо, они согреваются движением.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPQ7pB_6VTOt7MBkcMfMcsnDHntbivq5cBJVp6KLpiaHQ6Auq_OYx8QSTptxqmVlkOsDXPVhem9k8qWXIpFb79GrHS-JE6Y5EvdWA6TpQcp1xd1jAhDfYuIkV8THYgnD4sYhXsO0DfV-b9kA3lyXfjA=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;univer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPyifxkrjoU41NUUVahIMSagYWEJIc6PelH06ca_0YtYurTNVJYOCW-PohzYsEB7zwpQsmhuq-zJb9iDwjQE1LaJdZ5t7aUf1dbhdSkk1O5TUZlOdSb9KGXt6-vz8LqQYaT3M2-y0R6bkzdmteyaLVT=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;univer2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczO3bLNMxkLIY-PrOW9tyz4mdnVeJ7AlcvrdYGrovpCATVo1AGWrVZdSEBT17GBO0-B5enuQOqMqMR5CMMEvNXsANqKlR66x66QG-VkWCHfady5R970ILis5I8p832-HJRv9MVkOD_67K0u8iJJsp8B4=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;univer3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Вся эта велосипедная тема, цены на еду, транспорт и жильё, обилие водных каналов в городах, – всё это сильно напоминает Нидерланды. Страны соседствуют, и география у них похожая. Но если в Нидерландах на английском говорят буквально все, то в Бельгии, как мне сказали, – только на севере. На юге страны предпочитают говорить на французском. На нидерландском там вроде как тоже меньше говорят, а на немецком говорит вообще мало кто, возможно, только в самом близком к Германии регионе.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOicAh1218VomESd98bO9r61gYZ-V98uy8tXuxQXSShktwTYHfiH0G-QcQPNt5IDhY1hwAkzrxjrbkZoJ2Jq2Mc4ujob1Nl9MyK_1EtQRsTsFpV4HP9EjP43757fWTTC7hPa8LTneFEaKCjS_KpShXF=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;bruges2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczMasENPsVnWAbpyIdfW7UkOPYsUh8MgAYH8bD4Vfh_NRYFDP9yXSp4n7FDUxqz04oqyRRBQ6IIhI0pH98YIr7kKBST4vl0zLmqALYo33Sw1tKpml3QC-m4anDg3YZ8LyEzpFZCVNvp1fLKej0-J41QF=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;bruges3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPHQW3NH45Oaaj2jkBrXdwzPKaebJ1Od3_pi3V4gMTmdt2c0R8itq_pfCJpo-XkFYAmUrGyrK0IL2tLheETSdaB3xAxG6D2eotVnH6EYq9B4ynyimIrBt5BzYosQ-l3n5IXknPBJonk_VLTrzvUCOSM=w2194-h1646-s-no-gm?authuser=0&quot; alt=&quot;bruges4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;После мероприятия RubyGorGood я отправился посетить ещё один город. Брюгге, как и Гент, находится во Фландрии (область Бельгии), поэтому в этих городах похожие культуры, одна и те транспортные компании, да и езды там на поезде минут 20 всего. Но старая часть Брюгге выглядит совсем как декорация к сказке. Настолько там всё как на картинке, настолько много всего для привлечения туристов, что по вечерам, когда никто уже не гуляет по городу, а, в лучшем случае, заседает где-то в кафе, сам город словно вымирает. Отчасти поэтому он и ощущается как дыра, что отлично передано в одноимённом &lt;a href=&quot;https://www.kinopoisk.ru/film/276295/&quot;&gt;фильме&lt;/a&gt; Мартина Макдоны. Тем не менее, хочется посетить некоторые из мест летом, когда на улице тепло.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Lyon by train</title>
